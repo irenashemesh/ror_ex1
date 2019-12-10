@@ -43,6 +43,7 @@ group :development, :test do
   gem 'rails-controller-testing'
   gem 'fabrication'
   gem 'faker'
+  gem 'simplecov'
 end
 
 group :development do
